@@ -1,22 +1,23 @@
 * Title of Project
-  * Teach how to code to Newbie
+  * Make the Car Move
 
 * All team members with email address
   * Yejoon Park
   * parkyj@mail.uc.edu
 
 * Faculty advisor with email address
-  * Undecided
+  * Professor James Everly
+  * james.everly@uc.edu
 
 * Project background description
-  * Nowadays, there are many people who want to learn how to do coding.
-  * Make a mobile(android) game that is teaching how to make a code for newbie.
+  * Nowadays, coding and programming are important subject of learning.
+  * Make a mobile(android) game that is teaching how to programming for children with game play.
   * Help people can learn how to code easily through the game.
-  * The code will not be specific language such as Java, C++, or python.
-  * It will just teach how to code, so player can make a code and understand the code for any language.
+  * Player will build algorithm for AI car to make a move.
+  * To make it move, player will use some blocks to set an algorithm.
 
 * Project problem statement
-  * How to teach people coding easily?
+  * How to teach programming with game play
 
 * Inadequacy of current solutions to problem
   * UI design for the application
@@ -30,5 +31,4 @@
 
 * Overall goals / Final product
   * Final product will be a complete android mobile application game.
-  * Player will learn how to code so the player can write and understand a code by any language after complete the game.
-  * It is game, so player can learn coding naturally while they are playing the game.
+  * Player can download the application through Google Play Store and can play the entire game.
