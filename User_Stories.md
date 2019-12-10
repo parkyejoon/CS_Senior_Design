@@ -1,3 +1,3 @@
-As a **person who want to learn programming language**, I want **to learn basic concept of programming**, so that **I can read and write any programming language such as java or python.**
+As a **parent of a child**, I want **to make my child learns a basic mechanism of programming with having fun**, so that **the child can learn the concept while playing the game**.
 
-As a **middle school student**, I want **to learn programming language entertainingly**, so that **I learn computer language, but not bored.**
+As a **young student who will study a coding later**, I want **to understand the concept while playing the game**, so that **I can study easily real programming language such as python later**.
