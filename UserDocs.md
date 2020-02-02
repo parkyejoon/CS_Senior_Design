@@ -1,8 +1,13 @@
 # HowTo
-  - user manual
-    - This project is a devloping puzzle game. After playing the game, user will understand what is algorithm and how programming works. It will not teach a programming detailedly, but user can learn a basic concept of programming and algorithm. In the game, user will make an simple algorithm by connecting block that has an specific command such as 'go striaght' or 'turn right'. For example, if user wants to move the car, user can make an algorithm by 'go straight' block. Also, user can add other blocks to add some more commands. 
-  - user guide
-    - Before start to play the game, user need an android device and google account to access the PlayStore. To play the game, user can download the game from Google PlayStore. To download and install the game, user needs an android device and google account to access the Google PlayStore.
+  - **user manual**
+    - This project is devloping a puzzle game. After playing the game, user will understand what is algorithm and how programming works. It will not teach a specific computer language or programming detailedly, but user can learn a basic concept of programming and algorithm. In the game, user will make an simple algorithm to solve a game stage by connecting block that has an specific command such as 'go striaght' or 'turn right'. For example, if user wants to move the car, user can make an algorithm by 'go straight' block. Also, user can add other blocks to add some more commands. To complete the game stage, user needs to make an algorithm, and moves the car to arrive at goal position. If car conflicted to the wall, or car could not arrived at goal position after running the algorithm, user needs to try with other algorithm to complete the stage.
+    
+  - **user guide**
+  - There are two differents ways to download and play the game.
+  1. Through Google PlayStore
+   - User needs an android device and google account to access the Google PlayStore. To play the game, user can find and download the game from Google PlayStore. To download and install the game, user needs an android device and google account to access the Google PlayStore.
+  2. Through Github
+   - APK file of the game is uploaded to Github repository. User can go to Github repository through internet application such as Chrome or internet to reach the repository and manually download the APK file to install and play.
 
 # FAQ
 1. Q. Is the game is available to play by IOS device such as iphone or ipad?
