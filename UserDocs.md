@@ -21,3 +21,4 @@
     
 **P.S.**
  - I will add some screenshots when the devloping is closely done.
+ - Specific url for Github APK repository will created when the devloping is closely done.
