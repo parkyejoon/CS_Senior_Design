@@ -4,9 +4,9 @@
     
   - **user guide**
     - There are two differents ways to download and play the game.
-    1. Through Google PlayStore
+    1. **Google PlayStore**
       - User needs an android device and google account to access the Google PlayStore. To play the game, user can find and download the game from Google PlayStore. To download and install the game, user needs an android device and google account to access the Google PlayStore.
-    2. Through Github
+    2. **Github**
       - APK file of the game is uploaded to Github repository. User can go to Github repository through internet application such as Chrome or internet to reach the repository and manually download the APK file to install and play.
 
 # FAQ
