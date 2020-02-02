@@ -16,7 +16,7 @@
     - A. Yes, but you need to install an Android Emulator such as Nox or Bluestack.
 3. Q. Is the game has an age limit to play?
     - A. No, the game is serviced to all age, especially young children whose age is around 8.
-4. Q. Do you havea plan to upgrade the game?
+4. Q. Do you have a plan to upgrade the game?
     - A. Yes, I do have a plan to add more stages and special event later to make the game difficultly.
     
 **P.S.**
